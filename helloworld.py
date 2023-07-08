@@ -1,4 +1,4 @@
-import 
+import sys
 
 def main():
     print("Hello World! From Python: " + str(sys.version_info))
